@@ -1,3 +1,5 @@
+
+You said:
 <h1 align="center">Hi 👋, I'm Jigar Vadukar.</h1>
 <h3 align="center">I am a Computer Engineering student.</h3>
 
@@ -14,9 +16,3 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- your existing icons stay untouched -->
-    
-    <!-- Added scikit-learn logo -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="60"/>
-</p>
