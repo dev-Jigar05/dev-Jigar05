@@ -15,5 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="60" />
+    <!-- your existing icons stay untouched -->
+    
+    <!-- Added scikit-learn logo -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" width="60"/>
 </p>
