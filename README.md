@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigar Vadukar.</h1>
 <h3 align="center">I am a Computer Engineering student.</h3>
 
-- 🌱 I’m currently learning **Web Development, DSA, DBMS, DM.**
+- 🌱 I’m currently learning **ML/DL**
 
 - 📫 How to reach me **jigarvadukar127@gmail.com**
 
